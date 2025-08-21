@@ -1,7 +1,4 @@
 # Conditions in Python
-# --------------------
-# Conditions are used to make decisions in code.
-# Python uses if, elif, and else statements.
 
 # ---------------------------
 # 1. Basic if statement
